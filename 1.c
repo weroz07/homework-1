@@ -1,4 +1,4 @@
-//#homevork 1
+//#homework 1
 #include<stdio.h>
 #include<locale.h>
 
@@ -14,4 +14,5 @@ void main()
 
 
 	return 0;
+
 }
